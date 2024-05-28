@@ -1,0 +1,1 @@
+# This is my Second JavaScript Project. A temperature Report.
